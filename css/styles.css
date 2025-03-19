@@ -28,7 +28,7 @@ body {
   align-items: center;
   padding: 5px 20px;
   #header-heading {
-    color: green;
+    color: rgb(238, 243, 238);
     font-style: italic;
     font-weight: bold;
   }
