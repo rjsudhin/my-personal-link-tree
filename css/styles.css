@@ -18,6 +18,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  background: linear-gradient(230deg, rgb(30, 124, 155), rgb(88, 88, 153), rgb(20, 20, 20));
 }
 
 #header-section {
@@ -26,7 +27,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 5px 20px;
-  border: 1px solid black;
   #header-heading {
     color: green;
     font-style: italic;
