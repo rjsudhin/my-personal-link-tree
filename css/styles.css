@@ -68,6 +68,14 @@ body {
     border-radius: 50%;
   }
 
+  #hero-heading-name {
+    color: #fff;
+  }
+
+  .hero-description-text {
+    color: #fff;
+    opacity: 0.8;
+  }
 }
 
 #tree-links-container {
