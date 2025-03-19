@@ -19,3 +19,23 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
+#header-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+  border: 1px solid black;
+  #header-heading {
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  #header-heading::first-letter {
+    font-size: 3rem;
+    font-style: normal;
+  }
+
+}
