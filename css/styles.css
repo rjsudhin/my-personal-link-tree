@@ -18,7 +18,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background: linear-gradient(230deg, rgb(30, 124, 155), rgb(88, 88, 153), rgb(20, 20, 20));
+  background: linear-gradient(230deg, rgb(125, 151, 160), rgb(144, 144, 212), rgb(49, 47, 47));
 }
 
 #header-section {
@@ -126,9 +126,9 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  border: 1px solid #eee;
+  /* border: 1px solid #eee; */
   object-fit: cover;
-  background: linear-gradient(230deg, rgb(30, 124, 155), rgb(88, 88, 153), rgb(20, 20, 20));
+  background: rgba(103, 116, 117, 0.5);
   filter: blur(10px);
   top: 0;
 }
